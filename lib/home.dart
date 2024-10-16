@@ -11,6 +11,7 @@ class Home extends StatelessWidget {
       backgroundColor: Colors.white,
       body: Center(
         child: Container(
+          child: Text("login branch"),
         )),
     );
   }
